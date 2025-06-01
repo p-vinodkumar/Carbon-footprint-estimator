@@ -28,6 +28,14 @@ A web-based application that predicts carbon dioxide (CO₂) emissions based on 
 
 ---
 
+### 🏋️ Model Training (Notebook)
+- Load and clean the dataset
+- Preprocess features using ColumnTransformer
+- Train a PyTorch model with early stopping
+- Save:
+- Trained model as emission_model_final.pth
+- Preprocessing pipeline as preprocessor.pkl
+
 ## 📁 Project Structure
 
 ```bash
