@@ -88,5 +88,8 @@ Click on "Predict Emission"
 
 ### OUTPUT
 
-Estimated Carbon Emission: 24.56 kg CO₂
+- Estimated Carbon Emission: 24.56 kg CO₂
+
+### Acknowledgement
+- Under the guidance of Dr. Victor A I
 
