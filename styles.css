@@ -1,0 +1,61 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(135deg, #e0f7fa, #80deea);
+  min-height: 100vh;
+  margin: 0;
+  padding-bottom: 60px; /* for footer */
+}
+
+.card {
+  border: none;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  max-width: 500px; /* Reduce overall width */
+  margin: 0 auto; /* Center horizontally */
+}
+
+.card-body {
+  padding: 25px; /* Less padding inside card */
+}
+
+.card-title {
+  font-size: 1.4rem; /* Slightly smaller heading */
+}
+
+form .form-label {
+  font-size: 0.9rem;
+}
+
+form .form-control,
+form .form-select {
+  font-size: 0.9rem;
+  padding: 6px 10px;
+}
+
+.btn-primary {
+  background: #007bff;
+  border: none;
+  font-size: 1rem;
+  padding: 10px 16px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background: #0056b3;
+}
+
+.navbar-brand {
+  font-size: 1.3rem;
+  letter-spacing: 1px;
+  color: #fff !important;
+}
+
+footer {
+  position: static; /* So it doesn’t take fixed height */
+  width: 100%;
+  background: #007bff;
+  color: white;
+  text-align: center;
+  padding: 8px 0;
+  font-size: 0.85rem;
+}
