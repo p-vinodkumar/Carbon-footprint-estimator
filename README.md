@@ -6,9 +6,6 @@
 
 A web-based application that predicts carbon dioxide (CO₂) emissions based on transportation details like distance, fuel consumption, speed, cargo weight, and traffic conditions. Users can enter **source and destination** or **manual trip details** to get accurate emission estimates.
 
-![Flask App Screenshot](https://user-images.githubusercontent.com/your-image.png) <!-- Add your screenshot here -->
-
----
 
 ## 🚀 Features
 
